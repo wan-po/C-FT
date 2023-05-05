@@ -1,0 +1,8 @@
+C:\Users\boriswan\Desktop\NF\AAT\AAT\bin\Debug\AAT.exe.config
+C:\Users\boriswan\Desktop\NF\AAT\AAT\bin\Debug\AAT.exe
+C:\Users\boriswan\Desktop\NF\AAT\AAT\bin\Debug\AAT.pdb
+C:\Users\boriswan\Desktop\NF\AAT\AAT\obj\Debug\AAT.csproj.AssemblyReference.cache
+C:\Users\boriswan\Desktop\NF\AAT\AAT\obj\Debug\AAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\boriswan\Desktop\NF\AAT\AAT\obj\Debug\AAT.csproj.CoreCompileInputs.cache
+C:\Users\boriswan\Desktop\NF\AAT\AAT\obj\Debug\AAT.exe
+C:\Users\boriswan\Desktop\NF\AAT\AAT\obj\Debug\AAT.pdb

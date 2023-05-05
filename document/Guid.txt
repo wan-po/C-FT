@@ -1,0 +1,2 @@
+只要記住 Guid 很難重複即可
+參考：https://blog.darkthread.net/blog/is-guid-really-unique/
