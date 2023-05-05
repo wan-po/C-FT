@@ -1,0 +1,8 @@
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\obj\Debug\TypeOfAndNameOf.csproj.AssemblyReference.cache
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\obj\Debug\TypeOfAndNameOf.csproj.SuggestedBindingRedirects.cache
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\obj\Debug\TypeOfAndNameOf.csproj.CoreCompileInputs.cache
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\bin\Debug\TypeOfAndNameOf.exe.config
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\bin\Debug\TypeOfAndNameOf.exe
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\bin\Debug\TypeOfAndNameOf.pdb
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\obj\Debug\TypeOfAndNameOf.exe
+C:\Users\boriswan\Desktop\NF\AAT\TypeOfAndNameOf\obj\Debug\TypeOfAndNameOf.pdb
