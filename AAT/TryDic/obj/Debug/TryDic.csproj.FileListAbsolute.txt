@@ -1,0 +1,8 @@
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\bin\Debug\TryDic.exe.config
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\bin\Debug\TryDic.exe
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\bin\Debug\TryDic.pdb
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\obj\Debug\TryDic.csproj.AssemblyReference.cache
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\obj\Debug\TryDic.csproj.SuggestedBindingRedirects.cache
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\obj\Debug\TryDic.csproj.CoreCompileInputs.cache
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\obj\Debug\TryDic.exe
+C:\Users\boriswan\Desktop\NF\AAT\TryDic\obj\Debug\TryDic.pdb
