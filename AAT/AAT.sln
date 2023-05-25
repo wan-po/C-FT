@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryDic", "TryDic\TryDic.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TT", "TT\TT.csproj", "{86AA4577-66EF-414C-BED2-FF23AA70BA6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webTest", "webTest\webTest.csproj", "{AB54EDD2-0DD2-4DE8-8E60-6766060C8F10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{86AA4577-66EF-414C-BED2-FF23AA70BA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86AA4577-66EF-414C-BED2-FF23AA70BA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86AA4577-66EF-414C-BED2-FF23AA70BA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB54EDD2-0DD2-4DE8-8E60-6766060C8F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB54EDD2-0DD2-4DE8-8E60-6766060C8F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB54EDD2-0DD2-4DE8-8E60-6766060C8F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB54EDD2-0DD2-4DE8-8E60-6766060C8F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
