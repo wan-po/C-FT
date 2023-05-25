@@ -13,7 +13,7 @@ namespace myGuid
             for (int i = 0; i < 10; i++)
             { 
                 string guid = Guid.NewGuid().ToString(); //微軟提供的唯一識別亂數
-                Console.WriteLine(guid);
+                Console.WriteLine($"{guid},共{guid.Count()}字");
             }
             Console.ReadLine();
         }

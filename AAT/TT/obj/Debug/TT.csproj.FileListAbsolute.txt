@@ -1,0 +1,8 @@
+C:\Users\boriswan\Desktop\NF\AAT\TT\bin\Debug\TT.exe.config
+C:\Users\boriswan\Desktop\NF\AAT\TT\bin\Debug\TT.exe
+C:\Users\boriswan\Desktop\NF\AAT\TT\bin\Debug\TT.pdb
+C:\Users\boriswan\Desktop\NF\AAT\TT\obj\Debug\TT.csproj.AssemblyReference.cache
+C:\Users\boriswan\Desktop\NF\AAT\TT\obj\Debug\TT.csproj.SuggestedBindingRedirects.cache
+C:\Users\boriswan\Desktop\NF\AAT\TT\obj\Debug\TT.csproj.CoreCompileInputs.cache
+C:\Users\boriswan\Desktop\NF\AAT\TT\obj\Debug\TT.exe
+C:\Users\boriswan\Desktop\NF\AAT\TT\obj\Debug\TT.pdb
