@@ -1,0 +1,8 @@
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\bin\Debug\ExceptionTest.exe.config
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\bin\Debug\ExceptionTest.exe
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\bin\Debug\ExceptionTest.pdb
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\obj\Debug\ExceptionTest.csproj.AssemblyReference.cache
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\obj\Debug\ExceptionTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\obj\Debug\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\obj\Debug\ExceptionTest.exe
+C:\Users\boriswan\Desktop\NF\AAT\ExceptionTest\obj\Debug\ExceptionTest.pdb
